@@ -53,7 +53,7 @@ const Sarah: PersonEx2 = {
   },
 };
 
-Sarah.greet("Hello, TypeScript!"); // Output: Alice says: Hello, TypeScript!
+Sarah.greet("Hello, TypeScript!"); // Output: Sarah says: Hello, TypeScript!
 ```
 
 In this example:
